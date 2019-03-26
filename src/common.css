@@ -1,0 +1,10 @@
+picture {
+    width: 500px;
+    border: 1px solid red;
+    display: block;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
